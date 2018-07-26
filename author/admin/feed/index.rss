@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; eco.logismi.co</title>
+	<atom:link href="http://eco.logismi.co/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://eco.logismi.co</link>
+	<description>software engineering for the environment</description>
+	<lastBuildDate>Thu, 08 Oct 2015 19:59:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Job openings 2013</title>
+		<link>http://eco.logismi.co/jobs-2013/</link>
+		<pubDate>Mon, 15 Jul 2013 16:53:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Job positions]]></category>
+
+		<guid isPermaLink="false">http://eco.logismi.co/?p=247</guid>
+		<description><![CDATA[We are looking for two researchers (one post-doc and one PhD student) to work with us in the following areas: Domain Specific Programming Languages Semantic Web, Knowledge Modelling Service Oriented Systems Open Big Data and Data Interoperability Intelligent Software Systems<span class="ellipsis">&#8230;</span><div class="read-more"><a href="http://eco.logismi.co/jobs-2013/">Read more &#8250;</a></div><!-- end of .read-more -->]]></description>
+				<content:encoded><![CDATA[<p>We are looking for two researchers (one post-doc and one PhD student) to work with us in the following areas:</p>
+<ul>
+<li>Domain Specific Programming Languages </li>
+<li>Semantic Web, Knowledge Modelling</li>
+<li>Service Oriented Systems</li>
+<li>Open Big Data and Data Interoperability</li>
+<li>Intelligent Software Systems </li>
+<li>Requirements Engineering</li>
+</ul>
+<p>The general goal is to advance the state of the art in ecoinformatics, i.e. the science of information in ecology and environmental sciences, in the context of various concrete research projects.</p>
+<p>The post-doctoral researcher is expected to have acknowledged research contributions in some of the above areas.<br />
+The PhD student is expected to have a solid background in computer science, and interest for research investigations in the above mentioned areas.</p>
+<p>Both are full-time positions, with temporary contracts of one year to be renewed for another two years. Funding is provided with the support of the following two projects:</p>
+<ol>
+<li>
+<p><a href="http://eco.logismi.co/alpine">ALPINE</a> (GSRT Collaboration Grant, 2013-2015)<br />
+A low power, intelligent, sensor network architecture for environmental management</p>
+</li>
+<li>
+<p><a href="http://eco.logismi.co/modextreme">MODEXTREME</a> (FP7 Grant, 2013-2016)<br />
+&#8220;Modelling vegetation response to extreme events&#8221;</p>
+</li>
+</ol>
+<p>To apply, send your CV and cover letter to Ioannis Athanasiadis, Assistant Professor with the Electrical and Computer Engineering Department, Democritus University of Thrace, at <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#x69;&#111;&#97;&#x6e;&#110;&#105;&#x73;&#x40;&#97;t&#x68;&#97;&#110;&#x61;&#x73;&#105;a&#x64;&#105;&#115;&#x2e;&#x69;&#110;f&#x6f;">&#x69;&#111;&#97;&#x6e;&#110;&#105;&#x73;&#x40;&#97;t&#x68;&#97;&#110;&#x61;&#x73;&#105;a&#x64;&#105;&#115;&#x2e;&#x69;&#110;f&#x6f;</a>.</p>
+<p>Positions will be filled on a first-come first serve basis. Cut off date for first round of assessments is August 20, 2013.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

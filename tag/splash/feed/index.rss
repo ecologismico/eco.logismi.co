@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SPLASH &#8211; eco.logismi.co</title>
+	<atom:link href="http://eco.logismi.co/tag/splash/feed/" rel="self" type="application/rss+xml" />
+	<link>http://eco.logismi.co</link>
+	<description>software engineering for the environment</description>
+	<lastBuildDate>Thu, 08 Oct 2015 19:59:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>SPLASH 2013</title>
+		<link>http://eco.logismi.co/event/splash-2013/</link>
+		<pubDate>Fri, 25 Oct 2013 21:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DSM]]></category>
+		<category><![CDATA[SPLASH]]></category>
+
+		<guid isPermaLink="false">http://eco.logismi.co/?post_type=tribe_events&#038;p=301</guid>
+		<description><![CDATA[The ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH) embraces all aspects of software construction and delivery to make it the premier conference at the intersection of programming, languages, and software engineering. &#160;]]></description>
+				<content:encoded><![CDATA[<p>The ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH) embraces all aspects of software construction and delivery to make it the premier conference at the intersection of programming, languages, and software engineering.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
